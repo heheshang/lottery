@@ -1,5 +1,6 @@
 mod commands;
 mod state;
+mod lottery;
 
 use anyhow::Result;
 use tauri::Manager;
